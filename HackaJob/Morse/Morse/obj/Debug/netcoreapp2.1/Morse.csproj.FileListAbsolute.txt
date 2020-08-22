@@ -1,0 +1,11 @@
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/Morse/Morse/bin/Debug/netcoreapp2.1/Morse.deps.json
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/Morse/Morse/bin/Debug/netcoreapp2.1/Morse.runtimeconfig.json
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/Morse/Morse/bin/Debug/netcoreapp2.1/Morse.runtimeconfig.dev.json
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/Morse/Morse/bin/Debug/netcoreapp2.1/Morse.dll
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/Morse/Morse/bin/Debug/netcoreapp2.1/Morse.pdb
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/Morse/Morse/obj/Debug/netcoreapp2.1/Morse.csprojAssemblyReference.cache
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/Morse/Morse/obj/Debug/netcoreapp2.1/Morse.csproj.CoreCompileInputs.cache
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/Morse/Morse/obj/Debug/netcoreapp2.1/Morse.AssemblyInfoInputs.cache
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/Morse/Morse/obj/Debug/netcoreapp2.1/Morse.AssemblyInfo.cs
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/Morse/Morse/obj/Debug/netcoreapp2.1/Morse.dll
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/Morse/Morse/obj/Debug/netcoreapp2.1/Morse.pdb

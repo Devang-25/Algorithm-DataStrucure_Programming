@@ -1,0 +1,11 @@
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/StarWarsCelebration/StarWarsCelebration/obj/Debug/netcoreapp2.1/StarWarsCelebration.csprojAssemblyReference.cache
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/StarWarsCelebration/StarWarsCelebration/obj/Debug/netcoreapp2.1/StarWarsCelebration.csproj.CoreCompileInputs.cache
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/StarWarsCelebration/StarWarsCelebration/obj/Debug/netcoreapp2.1/StarWarsCelebration.AssemblyInfoInputs.cache
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/StarWarsCelebration/StarWarsCelebration/obj/Debug/netcoreapp2.1/StarWarsCelebration.AssemblyInfo.cs
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/StarWarsCelebration/StarWarsCelebration/bin/Debug/netcoreapp2.1/StarWarsCelebration.deps.json
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/StarWarsCelebration/StarWarsCelebration/bin/Debug/netcoreapp2.1/StarWarsCelebration.runtimeconfig.json
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/StarWarsCelebration/StarWarsCelebration/bin/Debug/netcoreapp2.1/StarWarsCelebration.runtimeconfig.dev.json
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/StarWarsCelebration/StarWarsCelebration/bin/Debug/netcoreapp2.1/StarWarsCelebration.dll
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/StarWarsCelebration/StarWarsCelebration/bin/Debug/netcoreapp2.1/StarWarsCelebration.pdb
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/StarWarsCelebration/StarWarsCelebration/obj/Debug/netcoreapp2.1/StarWarsCelebration.dll
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/StarWarsCelebration/StarWarsCelebration/obj/Debug/netcoreapp2.1/StarWarsCelebration.pdb

@@ -1,0 +1,11 @@
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/CommonAncestor/CommonAncestor/bin/Debug/netcoreapp2.1/CommonAncestor.deps.json
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/CommonAncestor/CommonAncestor/bin/Debug/netcoreapp2.1/CommonAncestor.runtimeconfig.json
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/CommonAncestor/CommonAncestor/bin/Debug/netcoreapp2.1/CommonAncestor.runtimeconfig.dev.json
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/CommonAncestor/CommonAncestor/bin/Debug/netcoreapp2.1/CommonAncestor.dll
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/CommonAncestor/CommonAncestor/bin/Debug/netcoreapp2.1/CommonAncestor.pdb
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/CommonAncestor/CommonAncestor/obj/Debug/netcoreapp2.1/CommonAncestor.csprojAssemblyReference.cache
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/CommonAncestor/CommonAncestor/obj/Debug/netcoreapp2.1/CommonAncestor.csproj.CoreCompileInputs.cache
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/CommonAncestor/CommonAncestor/obj/Debug/netcoreapp2.1/CommonAncestor.AssemblyInfoInputs.cache
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/CommonAncestor/CommonAncestor/obj/Debug/netcoreapp2.1/CommonAncestor.AssemblyInfo.cs
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/CommonAncestor/CommonAncestor/obj/Debug/netcoreapp2.1/CommonAncestor.dll
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/CommonAncestor/CommonAncestor/obj/Debug/netcoreapp2.1/CommonAncestor.pdb

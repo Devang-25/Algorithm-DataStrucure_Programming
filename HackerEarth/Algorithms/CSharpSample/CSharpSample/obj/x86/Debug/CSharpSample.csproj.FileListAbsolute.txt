@@ -1,0 +1,6 @@
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackerEarth/Algorithms/CSharpSample/CSharpSample/bin/Debug/CSharpSample.exe
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackerEarth/Algorithms/CSharpSample/CSharpSample/bin/Debug/CSharpSample.pdb
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackerEarth/Algorithms/CSharpSample/CSharpSample/obj/x86/Debug/CSharpSample.csprojAssemblyReference.cache
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackerEarth/Algorithms/CSharpSample/CSharpSample/obj/x86/Debug/CSharpSample.csproj.CoreCompileInputs.cache
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackerEarth/Algorithms/CSharpSample/CSharpSample/obj/x86/Debug/CSharpSample.exe
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackerEarth/Algorithms/CSharpSample/CSharpSample/obj/x86/Debug/CSharpSample.pdb

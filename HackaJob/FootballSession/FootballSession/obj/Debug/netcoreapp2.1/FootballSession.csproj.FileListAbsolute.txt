@@ -1,0 +1,11 @@
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/FootballSession/FootballSession/bin/Debug/netcoreapp2.1/FootballSession.deps.json
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/FootballSession/FootballSession/bin/Debug/netcoreapp2.1/FootballSession.runtimeconfig.json
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/FootballSession/FootballSession/bin/Debug/netcoreapp2.1/FootballSession.runtimeconfig.dev.json
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/FootballSession/FootballSession/bin/Debug/netcoreapp2.1/FootballSession.dll
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/FootballSession/FootballSession/bin/Debug/netcoreapp2.1/FootballSession.pdb
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/FootballSession/FootballSession/obj/Debug/netcoreapp2.1/FootballSession.csprojAssemblyReference.cache
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/FootballSession/FootballSession/obj/Debug/netcoreapp2.1/FootballSession.csproj.CoreCompileInputs.cache
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/FootballSession/FootballSession/obj/Debug/netcoreapp2.1/FootballSession.AssemblyInfoInputs.cache
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/FootballSession/FootballSession/obj/Debug/netcoreapp2.1/FootballSession.AssemblyInfo.cs
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/FootballSession/FootballSession/obj/Debug/netcoreapp2.1/FootballSession.dll
+/Users/MrGunerhanal/Desktop/Personel/Coding/HackaJob/FootballSession/FootballSession/obj/Debug/netcoreapp2.1/FootballSession.pdb
